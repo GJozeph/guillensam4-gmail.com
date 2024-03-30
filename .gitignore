@@ -1,6 +1,6 @@
 # Gradle files
 .gradle/
-build/
+build/Android 14; SM-A146U Build/UP1A.231005.007
 
 # Local configuration file (sdk path, etc)
 local.properties
